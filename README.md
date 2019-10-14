@@ -8,8 +8,6 @@
 - *Python* 
 - *HTML*
 - *CSS*
-- *JavaScript*
-- *Php*
 
 ## Skills:
 - *Blender*
